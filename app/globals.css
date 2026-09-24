@@ -947,7 +947,6 @@ blockquote small {
 
   .site-footer {
     grid-template-columns: 1fr;
-    text-align: center;
   }
 
   .footer-brand {
